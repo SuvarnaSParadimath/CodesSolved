@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
