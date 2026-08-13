@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0414-third-maximum-number) |
 ## Binary Search
 |  |
 | ------- |
