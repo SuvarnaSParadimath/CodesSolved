@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0704-binary-search) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0067-add-binary) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
