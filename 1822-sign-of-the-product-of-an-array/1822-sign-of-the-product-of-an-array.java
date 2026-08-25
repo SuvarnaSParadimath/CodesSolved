@@ -1,21 +1,20 @@
-
-import java.math.BigInteger;
 class Solution {
     public int arraySign(int[] nums) {
-          
 
-        BigInteger product=BigInteger.ONE;
+        int negative=0;
+
         for(int i=0; i<nums.length;i++){
-            product=product.multiply(BigInteger.valueOf(nums[i]));
+            if(nums[i]==0){
+                return 0;
+            }
+
+            if(nums[i]<0){
+                negative++;
+            }
         }
 
-        if(product.compareTo(BigInteger.ZERO)>0){
-            return 1;
-        }else if(product.compareTo(BigInteger.ZERO)<0){
-            return -1;
-        }
         
-             return 0;
+            return negative%2==0 ? 1 : -1;
         
         
     }
