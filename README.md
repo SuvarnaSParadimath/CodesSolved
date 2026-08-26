@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0704-binary-search) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Hash Table
