@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0067-add-binary) |
+| [1323-maximum-69-number](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/1323-maximum-69-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Bit Manipulation
 |  |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
