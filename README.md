@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0067-add-binary) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Trie
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0219-contains-duplicate-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Tree
 |  |
 | ------- |
