@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0704-binary-search) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2293-min-max-game](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/2293-min-max-game) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0219-contains-duplicate-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
