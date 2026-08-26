@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0704-binary-search) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2293-min-max-game](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/2293-min-max-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0067-add-binary) |
+| [2293-min-max-game](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/2293-min-max-game) |
 ## Two Pointers
 |  |
 | ------- |
