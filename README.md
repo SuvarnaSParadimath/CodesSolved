@@ -35,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0219-contains-duplicate-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0067-add-binary) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Trie
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/0169-majority-element) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -124,4 +127,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/1323-maximum-69-number) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SuvarnaSParadimath/CodesSolved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
